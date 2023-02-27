@@ -1,0 +1,47 @@
+.col-sm-8 {
+    width: 80% !important;
+}
+
+.Title__Category h3 {
+    margin: 20px 0;
+}
+.container__Item {
+    margin: 0 20px;
+}
+.form-label {
+    margin-top: 20px;
+}
+.rct-collapse {
+    font-size: 10px;
+    margin-right: 10px;
+    border: none;
+}
+.rct-checkbox {
+    margin-left: 10px;
+}
+.rct-node-icon svg {
+    color: #038cca;
+    margin-right: 10px;
+}
+.form-select {
+    margin-bottom: 16px;
+}
+.modal-body {
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    /* padding-right: 10px; */
+}
+.containerCol {
+    /* margin-right: 10px; */
+    display: flex;
+    flex-wrap: wrap;
+}
+.containerCol__Item {
+    display: flex;
+}
+/* .mb-3 {
+    display: flex;
+} */
+.containerCol__Item .mb-3 {
+    display: flex;
+}
